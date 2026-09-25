@@ -1,0 +1,6 @@
+{
+  "name": "J.A.R.V.I.S Kurdish AI - جاڕڤیسی کوردی بە دەنگ",
+  "description": "یاریدەدەری دەنگیی هۆشمەندی جاڕڤیس بە زمانی کوردی سۆرانی لەگەڵ ناسینەوەی دەنگ و وەڵامدانەوەی دەنگی",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
